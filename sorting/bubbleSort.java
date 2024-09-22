@@ -8,7 +8,7 @@ public class bubbleSort {
     //     b=temp;
     // }
 
-    // ====> not working
+    // ====> working
 
     public static void printArray(int arr[]){
         for (int i=0;i<arr.length;i++){
