@@ -2,12 +2,6 @@ package sorting;
 import java.util.*;
 
 public class bubbleSort {
-    // public static void swap(int a,int b){
-    //     int temp=a;
-    //     a=b;
-    //     b=temp;
-    // }
-
     // ====> working
 
     public static void printArray(int arr[]){
